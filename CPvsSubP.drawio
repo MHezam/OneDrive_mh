@@ -1,9 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T18:17:47.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" version="22.0.0" etag="JSaHsKRZSbdtJfiSQdNS" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-01T18:24:15.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53" etag="B7sIh2bCcoaY2j7e1P5-" version="22.0.0" type="github">
   <diagram name="Page-1" id="kW47qs0X2uHOvKJIalrH">
-    <mxGraphModel>
+    <mxGraphModel dx="4326" dy="3760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
+        <object label="" CPD="" id="0">
+          <mxCell />
+        </object>
         <mxCell id="1" parent="0" />
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-2" value="    Start -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="1071" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-3" value=" Identify subnational priorities" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="1081" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-4" value="" style="rounded=0;" edge="1" source="7SOJ_GQyoU7hEHO8eMuI-2" target="7SOJ_GQyoU7hEHO8eMuI-3" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-5" value="    Identify subnational priorities -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1131" y="-349" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-6" value=" Align subnational priorities with Country Programme priorities" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="-219" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-7" value="" style="rounded=0;" edge="1" source="7SOJ_GQyoU7hEHO8eMuI-5" target="7SOJ_GQyoU7hEHO8eMuI-6" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-8" value="    Align subnational priorities with Country Programme priorities -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="101" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-9" value=" Develop or adapt systems, procedures, tools, and capacities" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="781" y="241" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-10" value="" style="rounded=0;" edge="1" source="7SOJ_GQyoU7hEHO8eMuI-8" target="7SOJ_GQyoU7hEHO8eMuI-9" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-11" value="    Develop or adapt systems, procedures, tools, and capacities -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-359" y="-289" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-12" value=" Incorporate subnational priorities into program planning" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-329" y="-129" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-13" value="" style="rounded=0;" edge="1" source="7SOJ_GQyoU7hEHO8eMuI-11" target="7SOJ_GQyoU7hEHO8eMuI-12" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-14" value="    Incorporate subnational priorities into program planning -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="51" y="451" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-15" value=" End" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="501" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-16" value="" style="rounded=0;" edge="1" source="7SOJ_GQyoU7hEHO8eMuI-14" target="7SOJ_GQyoU7hEHO8eMuI-15" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-17" value="        yes -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-529" y="371" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-18" value=" Continue" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-649" y="251" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-19" value="" style="rounded=0;" edge="1" source="7SOJ_GQyoU7hEHO8eMuI-17" target="7SOJ_GQyoU7hEHO8eMuI-18" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-20" value="        no -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="-249" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-21" value=" Provide training to staff on subnational planning and budgeting" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261" y="-419" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7SOJ_GQyoU7hEHO8eMuI-22" value="" style="rounded=0;" edge="1" source="7SOJ_GQyoU7hEHO8eMuI-20" target="7SOJ_GQyoU7hEHO8eMuI-21" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
